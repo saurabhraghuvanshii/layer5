@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://saurabhraghuvanshii.github.io/layer5/sitemap-index.xml
-Host: https://saurabhraghuvanshii.github.io
+Sitemap: https://layer5.io/layer5/sitemap-index.xml
+Host: https://layer5.io
