@@ -16,7 +16,7 @@
 <a href="https://twitter.com/layer5" alt="Twitter Follow">
 <img src="https://img.shields.io/twitter/follow/layer5.svg?label=Follow+Layer5&style=social" /></a>
 <a href="https://github.com/layer5io/layer5/blob/master/LICENSE" alt="License">
-<img src="https://img.shields.io/github/license/layer5io/layer5.svg" /></a>
+<img src="https://img.shields.io/github/license/layer5io/layer5.svg" /><  /a>
 </p>
 
 <h5><p align="center"><i>If you’re using Layer5 products or if you like the project, please <a href="https://github.com/layer5io/layer5/stargazers">★</a> this repository to show your support! 🤩</i></p></h5>
