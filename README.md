@@ -12,7 +12,7 @@
 <a href="https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+(org%3Alayer5io+OR+org%3Ameshery+OR+org%3Alayer5labs+OR+org%3Aservice-mesh-performance+OR+org%3Aservice-mesh-patterns+OR+org%3Ameshery-extensions)+label%3A%22help+wanted%22" alt="Help wanted GitHub issues">
 <img src="https://img.shields.io/github/issues/layer5io/layer5/help%20wanted.svg?color=%23DDDD00" /></a>
 <a href="https://slack.layer5.io" alt="S/lack">
-<img src="https://img.shields.io/badge/Slack-@layer5.svg?logo=slack" /></a>
+<img src="https://img.shields.io/badge/Slack-@layer5.svg?logo=slack"    /></a>
 <a href="https://twitter.com/layer5" alt="Twitter Follow">
 <img src="https://img.shields.io/twitter/follow/layer5.svg?label=Follow+Layer5&style=social" /></a>
 <a href="https://github.com/layer5io/layer5/blob/master/LICENSE" alt="License">
